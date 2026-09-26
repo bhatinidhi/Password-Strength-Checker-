@@ -1,0 +1,1 @@
+https://github.com/bhatinidhi/Password-Strength-Checker-/commit/24fcc2c6f32086a663416f633bf61213e54de1ca#diff-9f160c5ad9681bacf64bf9ad1916267cd180701f10d976aba3184c1ee3b61521
